@@ -20,7 +20,6 @@ Install Python, clone or download this repository, then run:
 
 ```bash
 python -m pip install -r requirements.txt
-jupyter lab
 ```
 
-Open the notebooks in order and work through them from top to bottom.
+Then open the notebooks with either `jupyter lab` or your favourite IDE and work through them from top to bottom.
