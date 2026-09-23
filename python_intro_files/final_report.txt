@@ -1,0 +1,3 @@
+student_001,72,pass
+student_002,48,not yet a pass
+student_003,65,pass
